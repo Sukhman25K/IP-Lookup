@@ -1,5 +1,7 @@
 # About the Project
 
+<img src="https://github.com/Sukhman25K/IP-Lookup/blob/main/IPLookup-logo.png?raw=true" alt="Image of the application's logo with the title" height="600" width="600">
+
 # Built With
 Python was used to develop this project due to its simplicity in integrating API requests with simple yet friendly graphical user interfaces with Python's built-in Tkinter module. The real-time IP address information was obtained through an API provided by IP Geolocation which provided geolocation data for any IP address entered.
 
