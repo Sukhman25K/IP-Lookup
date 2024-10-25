@@ -1,6 +1,7 @@
 # About the Project
 
 # Built With
+Python was used to develop this project due to its simplicity in integrating API requests with simple yet friendly graphical user interfaces with Python's built-in Tkinter module. The real-time IP address information was obtained through an API provided by IP Geolocation which provided geolocation data for any IP address entered.
 
 # Getting Started
 ## Prerequisites
